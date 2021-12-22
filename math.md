@@ -3,7 +3,7 @@ layout: page
 title: "Math"
 ---
 
-You can find my undergraduate thesis [here](www.google.com)
+You can find my undergraduate thesis [here](/assets/thesis.pdf)
 
 #Currently TAing:
 
