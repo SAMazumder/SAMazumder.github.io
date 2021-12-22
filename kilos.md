@@ -5,11 +5,11 @@ title: "Kilos"
 
 I'm a weighlifter. Here are some of my stats pre-covid:
 
-Squat: 220kg 3x5
+Squat: 200kg 3x5
 
-Clean and Jerk: 180kg
+Clean and Jerk: 160kg
 
-Snatch: 140kg
+Snatch: 120kg
 
 Currently dealing with a hernia. So I'm not sure when I'll be able to get back to it.
 
