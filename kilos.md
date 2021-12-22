@@ -3,20 +3,14 @@ layout: page
 title: "Kilos"
 ---
 
-You can find my undergraduate thesis [here](www.google.com)
+I'm a weighlifter. Here are some of my stats pre-covid:
 
-#Currently TAing 
-(W22): AM8213/MTH800 - Financial Math II
+Squat: 220kg 3x5
 
-#Previously TAed:
-(F21): MTH141 - Linear Algebra
-(F21): MTH110 - Discrete Mathematics I
-(F21): MTH380 - Probability and Statistics I
+Clean and Jerk: 180kg
 
-(SS21): MTH 510 - Numerical Analysis
+Snatch: 140kg
 
-(W21): MTH210 - Discrete Mathematics II
-(W21): MTH141 - Linear Algebra
+Currently dealing with a hernia. So I'm not sure when I'll be able to get back to it.
 
-(F20): MTH110 - Discrete Mathematics I
-(F20): MTH207 - Calculus and Computational Methods I
+<img src="/assets/kilos.jpg" width="400" height="268">
