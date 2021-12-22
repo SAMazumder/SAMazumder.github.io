@@ -16,8 +16,8 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home", icon: fa-infinity}
-  - {file: "math.html", title: "Math", icon: infinity}
+  - {file: "index.md", title: "Home"}
+  - {file: "math.html", title: "Math"}
   - {file: "kilos.html", title: "Kilos"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
