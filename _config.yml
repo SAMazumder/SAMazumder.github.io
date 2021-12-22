@@ -16,8 +16,8 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "math.html", title: Math}
-  - {file: "Kilos.html", title: Kilos}
+  - {file: "math.html", title: "Math"}
+  - {file: "Kilos.html", title: "Kilos"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/samazumder/"}
