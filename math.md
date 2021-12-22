@@ -4,6 +4,7 @@ title: "Math"
 ---
 
 I'm currently writing my masters thesis tentatively on Coherent Risk Measures and their assymptotic properties.
+
 <img src="/assets/math.jpg" width="200" height="195">
 
 You can find my undergraduate thesis [here](/assets/thesis.pdf)
