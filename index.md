@@ -9,7 +9,7 @@ When I have time, I like repeatedly picking heavy objects up above my head, then
 
 I drink copious amounts of coffee. 
 
-You can find my short CV [here](SAMazumderResume.pdf)
+You can find my short CV [here](SAMazumderResume.pdf).
 
 My cats are cute.
 
