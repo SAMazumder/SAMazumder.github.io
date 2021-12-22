@@ -3,7 +3,9 @@ layout: page
 title: "Math"
 ---
 
-I'm currently writing my masters thesis tentatively on Coherent Risk Measures and their assymptotic properties.
+Math is pretty cool.
+
+I'm in the process of writing masters thesis under the supervision of Dr. Foivos Xanthos at Ryerson University. My research interests lie mainly in Functional Analysis, Stochastic Processes and Probability.
 
 <img src="/assets/math.jpg" width="200" height="195">
 
