@@ -11,11 +11,11 @@ I'm in the process of writing masters thesis under the supervision of Dr. Foivos
 
 You can find my undergraduate thesis [here](/assets/thesis.pdf).
 
-##Currently TAing:
+<h2>Currently TAing:<\h2>
 
 (W22): AM8213/MTH800 - Financial Math II
 
-##Previously TAed:
+<h2>Previously TAed:<\h2>
 
 (F21): MTH141 - Linear Algebra
 
