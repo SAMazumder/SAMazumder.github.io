@@ -5,7 +5,9 @@ title: "Kilos"
 
 I'm a weighlifter. Here are some of my stats pre-covid:
 
-Squat: 200kg 3x1
+Back Squat: 200kg 3x1
+
+Front Squat: 185kg 3x1
 
 Clean and Jerk: 160kg
 
