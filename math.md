@@ -24,7 +24,7 @@ Here are some notes I have made:
 
 You can find my undergraduate thesis [here](/assets/thesis.pdf).
 
-I make no claims to the correctness of the above notes.
+I make no claims to the correctness of the above.
 
 ## Currently TAing:
 
