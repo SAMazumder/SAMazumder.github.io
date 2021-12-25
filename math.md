@@ -17,7 +17,7 @@ Here are some notes I have made:
 
 [Seminar F21](/assets/Non_Cooperative_Games.pdf). A seminar presenting "Non-Cooperative Games" by John Nash.
 
-[Seminar F20](/assets/BG_distribution_of_money.pdf). A seminar presenting, "[A] Rigorous proof of the Boltzmann-Gibbs distribution of money on connected graphs by Nicolas Lanchier.
+[Seminar F20](/assets/BG_distribution_of_money.pdf). A seminar presenting, "\[A\] Rigorous proof of the Boltzmann-Gibbs distribution of money on connected graphs by Nicolas Lanchier.
 
 [Seminar F21]
 
