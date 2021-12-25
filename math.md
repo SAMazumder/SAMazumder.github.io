@@ -19,8 +19,6 @@ Here are some notes I have made:
 
 [Seminar F20](/assets/BG_distribution_of_money.pdf). A seminar presenting, "\[A\] Rigorous proof of the Boltzmann-Gibbs distribution of money on connected graphs by Nicolas Lanchier.
 
-[Seminar F21]
-
 [Some basic facts about mod](/assets/EqCmod.pdf). A note I provided to my students in Discrete Math I.
 
 [A Note on the Lagrange Form of the Interpolating Polynomial](/assets/LagrangePoly.pdf). A note provided to my students in Numerical Analysis.
