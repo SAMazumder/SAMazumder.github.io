@@ -9,7 +9,17 @@ I'm in the process of writing masters thesis under the supervision of Dr. Foivos
 
 <img src="/assets/math.jpg" width="200" height="195">
 
+## Some Notes
+
+Here are some notes I have made:
+
+[Some basic functional analysis](/assets/notes.pdf). I will at some point finish them.
+
+[Some basic facts about mod](/assets/EqCmod.pdf). A note I provided to my students in Discrete Math I
+
 You can find my undergraduate thesis [here](/assets/thesis.pdf).
+
+I make no claims to the correctness of the above notes.
 
 ## Currently TAing:
 
