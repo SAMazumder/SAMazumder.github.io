@@ -9,11 +9,17 @@ I'm in the process of writing masters thesis under the supervision of Dr. Foivos
 
 <img src="/assets/math.jpg" width="200" height="195">
 
-## Some Notes
+## Some Work
 
 Here are some notes I have made:
 
 [Some basic functional analysis](/assets/notes.pdf). I will at some point finish them.
+
+[Seminar F21](/assets/Non_Cooperative_Games.pdf). A seminar presenting "Non-Cooperative Games" by John Nash.
+
+[Seminar F20](/assets/BG_distribution_of_money.pdf). A seminar presenting, "[A] Rigorous proof of the Boltzmann-Gibbs distribution of money on connected graphs by Nicolas Lanchier.
+
+[Seminar F21]
 
 [Some basic facts about mod](/assets/EqCmod.pdf). A note I provided to my students in Discrete Math I.
 
