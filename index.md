@@ -5,7 +5,7 @@ title: "Saumitra Mazumder"
 
 I'm an MSc. Applied Mathematics candidate at Ryerson University.
 
-I like lifting picking heavy objects up above my head, then allowing them to fall. 
+I like lifting heavy objects up above my head, then allowing them to fall. 
 
 I drink copious amounts of coffee. 
 
