@@ -5,6 +5,8 @@ title: "Saumitra Mazumder"
 
 MSc. Applied Mathematics candidate at Ryerson University.
 
+Currently based in Calgary, Toronto and Montreal. 
+
 I like lifting heavy objects up above my head.  
 
 I drink copious amounts of coffee. 
