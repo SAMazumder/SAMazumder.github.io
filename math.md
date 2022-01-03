@@ -21,7 +21,7 @@ Here are some notes I have made:
 
 [Some basic facts about mod](/assets/EqCmod.pdf). A note I provided to my students in Discrete Math I.
 
-[A Note on the Lagrange Form of the Interpolating Polynomial](/assets/LagrangePoly.pdf). A note provided to my students in Numerical Analysis.
+[The Lagrange Form of the Interpolating Polynomial](/assets/LagrangePoly.pdf). A note provided to my students in Numerical Analysis.
 
 [A GLM model](/assets/EconM.pdf). A capstone assignment for an econometrics course.
 
@@ -34,7 +34,7 @@ I make no claims to the correctness of the above.
 
 * (W22): AM8213/MTH800 - Financial Math II
 
-## Previously TAed
+## Previously TAed:
 
 * (F21): MTH141 - Linear Algebra
 
