@@ -5,7 +5,7 @@ title: "Math"
 
 Math is pretty cool.
 
-I'm in the process of writing my masters thesis under the supervision of Dr. Foivos Xanthos at Ryerson University. In general, my mathematical and research interests lie in Functional Analysis, Stochastic Processes and Probability. I also have passing interest in Category Theory.
+I'm in the process of writing my masters thesis under the supervision of Dr. Foivos Xanthos at Ryerson University. In general, my mathematical and research interests lie in Functional Analysis, Stochastic Processes and Probability. I also have a passing interest in Category Theory.
 
 <img src="/assets/math.jpg" width="200" height="195">
 
@@ -19,7 +19,7 @@ Here are some notes I have made:
 
 [Seminar F20](/assets/BG_distribution_of_money.pdf). A seminar presenting, "\[A\] Rigorous proof of the Boltzmann-Gibbs distribution of money on connected graphs by Nicolas Lanchier.
 
-[Some basic facts about mod](/assets/EqCmod.pdf). A note I provided to my students in Discrete Math I.
+[Some basic facts about mod](/assets/EqCmod.pdf). A note provided to my students in Discrete Math I.
 
 [The Lagrange Form of the Interpolating Polynomial](/assets/LagrangePoly.pdf). A note provided to my students in Numerical Analysis.
 
