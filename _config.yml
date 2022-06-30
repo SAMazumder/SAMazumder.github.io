@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/samazumder/"}
-  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/Chameleon00/"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/kilos_kats_kaffiene/"}
   - {title: Github, icon: github, url: "https://github.com/SAMazumder"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
