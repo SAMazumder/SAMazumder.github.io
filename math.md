@@ -30,11 +30,10 @@ You can find my undergraduate thesis [here](/assets/thesis.pdf).
 
 I make no claims to the correctness of the above.
 
-## Currently TAing:
-
-* (W22): AM8213/MTH800 - Financial Math II
 
 ## Previously TAed:
+
+* (W22): AM8213/MTH800 - Financial Math II
 
 * (F21): MTH141 - Linear Algebra
 
