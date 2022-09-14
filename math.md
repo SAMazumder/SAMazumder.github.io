@@ -13,6 +13,8 @@ I'm in the process of writing my masters thesis under the supervision of Dr. Foi
 
 Here are some notes I have made:
 
+My masters thesis will be available here soon.
+
 [Some basic functional analysis](/assets/notes.pdf). I will at some point finish them.
 
 [Seminar F21](/assets/Non_Cooperative_Games.pdf). A seminar presenting "Non-Cooperative Games" by John Nash.
