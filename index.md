@@ -3,15 +3,15 @@ layout: page
 title: "Saumitra Mazumder"
 ---
 
-MSc. Applied Mathematics candidate at Ryerson University.
+Consultant in the Financial Services Risk Management - Consulting Practice @ EY. 
 
-Currently based in Calgary, Toronto and Montreal. 
+B.Sc. in Mathematics and M.Sc. in Applied Mathematics from Toronto Metropolitan University.
+
+Currently based in Calgary/Toronto. 
 
 I like lifting heavy objects up above my head.  
 
 I drink copious amounts of coffee. 
-
-My short CV is [here](/assets/SAMazumderResume.pdf).
 
 My cats are cute.
 
