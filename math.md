@@ -5,7 +5,7 @@ title: "Math"
 
 Math is pretty cool.
 
-I'm in the process of writing my masters thesis under the supervision of Dr. Foivos Xanthos at Toronto Metropolitan University (formerly Ryerson University). In general, my mathematical and research interests lie in Functional Analysis, Stochastic Processes and Probability. I also have a passing interest in Category Theory.
+I started and finished(?) my math career at Toronto Metropolitan University (formerly Ryerson University). In general, my mathematical and research interests were in Functional Analysis, Stochastic Processes and Measure/Probability Theory. I also have a passing interest in Category Theory.
 
 <img src="/assets/math.jpg" width="200" height="195">
 
