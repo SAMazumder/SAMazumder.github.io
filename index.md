@@ -5,7 +5,7 @@ title: "Saumitra Mazumder"
 
 Former mathematician(?). B.Sc. in Mathematics and M.Sc. in Applied Mathematics from Toronto Metropolitan University.
 
-In a past life, I was a biochemist with a focus on plant physiology (U of T. 
+In a past life, I was a biochemist with a focus on plant physiology (U of T). 
 
 Slowly trying to make the world a better place. 
 
