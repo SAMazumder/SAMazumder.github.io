@@ -1,5 +1,8 @@
 ---
 layout: page
+
+permalink: "/math/"
+
 title: "Math"
 ---
 
