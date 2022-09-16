@@ -1,5 +1,8 @@
 ---
 layout: page
+
+permalink: "/kilos/"
+
 title: "Kilos"
 ---
 
