@@ -28,7 +28,7 @@ My masters thesis will be available here soon.
 
 [The Lagrange Form of the Interpolating Polynomial](/assets/LagrangePoly.pdf). A note provided to my students in Numerical Analysis.
 
-[A GLM model](/assets/EconM.pdf). A capstone assignment for an econometrics course.
+[A GLM model](/assets/EconM.pdf). A simple GLM model noting the probability of employment after one year given a change in race identification.
 
 
 You can find my undergraduate thesis [here](/assets/thesis.pdf).
