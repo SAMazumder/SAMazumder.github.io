@@ -18,8 +18,6 @@ Here are some notes I have made:
 
 You can find my graduate thesis [here](/assets/SAMazumderThesis_Final-3.pdf).
 
-My masters thesis will be available here soon.
-
 [Some basic functional analysis](/assets/notes.pdf). I will at some point finish them.
 
 [Seminar F21](/assets/Non_Cooperative_Games.pdf). A seminar presenting "Non-Cooperative Games" by John Nash.
