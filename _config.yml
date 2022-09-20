@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home", icon: home}
   - {file: "math.md", title: "Math", icon: infinity}
   - {file: "kilos.md", title: "Kilos", icon: dumbbell}
-  - {file: "on.md", title: "On ... and other ramblings", icon: think-peaks}
+  - {file: "on.md", title: "On ... and other ramblings", icon: thought-bubble}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/samazumder/"}
