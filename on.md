@@ -1,5 +1,8 @@
 ---
 layout: default
+
+permalink: "/On/"
+
 title: "On ... and other ramblings"
 ---
 
