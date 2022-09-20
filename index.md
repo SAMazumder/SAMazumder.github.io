@@ -24,9 +24,3 @@ My cats are cute.
 You can connect with me at any of the socials on this website. 
 
 Let me know if you have any weightlifting tips. 
-
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
