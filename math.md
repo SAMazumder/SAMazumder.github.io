@@ -18,7 +18,7 @@ Here are some notes I have made:
 
 You can find my graduate thesis [here](/assets/SAMazumderThesis_Final-3.pdf).
 
-[Some thoughts on making change at random](/assets/Change Thought.pdf)
+[Some thoughts on making change at random](/assets/ChangeThought.pdf)
 
 [Some basic functional analysis](/assets/notes.pdf). I will at some point finish them.
 
