@@ -8,7 +8,6 @@ permalink: "/on/"
 title: "On ... and other ramblings"
 ---
 
-## On ... and other ramblings
 
 {% if site.show_excerpts %}
   {% include home.html %}
