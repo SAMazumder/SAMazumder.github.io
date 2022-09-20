@@ -1,6 +1,8 @@
 ---
 layout: default
 
+mathjax: true
+
 permalink: "/on/"
 
 title: "On ... and other ramblings"
