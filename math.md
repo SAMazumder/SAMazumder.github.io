@@ -10,7 +10,7 @@ Math is pretty cool.
 
 I started and finished(?) my math career at Toronto Metropolitan University (formerly Ryerson University). In general, my mathematical and research interests were in Functional Analysis, Stochastic Processes and Measure/Probability Theory. I also have a passing interest in Category Theory.
 
-<img src="/assets/math.jpg" width="200" height="195">
+<img src="/assets/20220817_130326.jpg" width="200" height="195">
 
 ## Some Work
 
