@@ -9,7 +9,7 @@ In a past life, I was a biochemist with a focus on plant physiology at U of T.
 
 Slowly trying to make the world a better place. 
 
-Currently based in Calgary/Toronto. 
+Currently based in several cities in Canada. 
 
 I like lifting heavy objects up above my head.  
 
