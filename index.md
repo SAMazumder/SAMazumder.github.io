@@ -9,7 +9,7 @@ In a past life, I was a biochemist with a focus on plant physiology at U of T.
 
 Slowly trying to make the world a better place. My interests intersect risk measures, climate change and ML.
 
-Currently based in several cities in Canada. 
+Currently based in ... based wherever I'm sent. 
 
 I like lifting heavy objects up above my head.  
 
