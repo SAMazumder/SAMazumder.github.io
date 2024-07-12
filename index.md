@@ -3,13 +3,11 @@ layout: page
 title: "Saumitra Mazumder"
 ---
 
-Former mathematician(?). B.Sc. in Mathematics and M.Sc. in Applied Mathematics from Toronto Metropolitan University.
+Former mathematician(?). B.Sc. and M.Sc. in Mathematics from Toronto Metropolitan University.
 
 In a past life, I was a biochemist with a focus on plant physiology at U of T. 
 
 Slowly trying to make the world a better place. My interests intersect risk measures, climate change and ML.
-
-Currently based in ... based wherever I'm sent. 
 
 I like lifting heavy objects up above my head.  
 
